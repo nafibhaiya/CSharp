@@ -1,0 +1,8 @@
+D:\C#\ConsoleArray\ConsoleArray\bin\Debug\ConsoleArray.exe.config
+D:\C#\ConsoleArray\ConsoleArray\bin\Debug\ConsoleArray.exe
+D:\C#\ConsoleArray\ConsoleArray\bin\Debug\ConsoleArray.pdb
+D:\C#\ConsoleArray\ConsoleArray\obj\Debug\ConsoleArray.csproj.AssemblyReference.cache
+D:\C#\ConsoleArray\ConsoleArray\obj\Debug\ConsoleArray.csproj.SuggestedBindingRedirects.cache
+D:\C#\ConsoleArray\ConsoleArray\obj\Debug\ConsoleArray.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleArray\ConsoleArray\obj\Debug\ConsoleArray.exe
+D:\C#\ConsoleArray\ConsoleArray\obj\Debug\ConsoleArray.pdb

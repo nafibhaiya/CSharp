@@ -1,0 +1,57 @@
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.exe.config
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.exe
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.pdb
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\MaterialSkin.dll
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.AssemblyReference.cache
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.Properties.Resources.resources
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.GenerateResource.cache
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.CoreCompileInputs.cache
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.CopyComplete
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.exe
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.pdb
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormLogin.resources
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormWarehouseManager.resources
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormAdmin.resources
+C:\Users\sheik\Downloads\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.exe.config
+C:\Users\sheik\Downloads\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.exe
+C:\Users\sheik\Downloads\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.pdb
+C:\Users\sheik\Downloads\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\MaterialSkin.dll
+C:\Users\sheik\Downloads\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.AssemblyReference.cache
+C:\Users\sheik\Downloads\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormAdmin.resources
+C:\Users\sheik\Downloads\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormLogin.resources
+C:\Users\sheik\Downloads\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormWarehouseManager.resources
+C:\Users\sheik\Downloads\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.Properties.Resources.resources
+C:\Users\sheik\Downloads\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.GenerateResource.cache
+C:\Users\sheik\Downloads\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\sheik\Downloads\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.CopyComplete
+C:\Users\sheik\Downloads\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.exe
+C:\Users\sheik\Downloads\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.pdb
+C:\Users\sheik\OneDrive\Documents\Desktop\Project\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.exe.config
+C:\Users\sheik\OneDrive\Documents\Desktop\Project\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.exe
+C:\Users\sheik\OneDrive\Documents\Desktop\Project\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.pdb
+C:\Users\sheik\OneDrive\Documents\Desktop\Project\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\MaterialSkin.dll
+C:\Users\sheik\OneDrive\Documents\Desktop\Project\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.AssemblyReference.cache
+C:\Users\sheik\OneDrive\Documents\Desktop\Project\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormAdmin.resources
+C:\Users\sheik\OneDrive\Documents\Desktop\Project\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormLogin.resources
+C:\Users\sheik\OneDrive\Documents\Desktop\Project\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormWarehouseManager.resources
+C:\Users\sheik\OneDrive\Documents\Desktop\Project\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.Properties.Resources.resources
+C:\Users\sheik\OneDrive\Documents\Desktop\Project\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.GenerateResource.cache
+C:\Users\sheik\OneDrive\Documents\Desktop\Project\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\sheik\OneDrive\Documents\Desktop\Project\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.CopyComplete
+C:\Users\sheik\OneDrive\Documents\Desktop\Project\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.exe
+C:\Users\sheik\OneDrive\Documents\Desktop\Project\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.pdb
+D:\Codes\C#\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.exe.config
+D:\Codes\C#\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.exe
+D:\Codes\C#\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.pdb
+D:\Codes\C#\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\MaterialSkin.dll
+D:\Codes\C#\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.AssemblyReference.cache
+D:\Codes\C#\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormAdmin.resources
+D:\Codes\C#\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormLogin.resources
+D:\Codes\C#\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormWarehouseManager.resources
+D:\Codes\C#\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.Properties.Resources.resources
+D:\Codes\C#\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.GenerateResource.cache
+D:\Codes\C#\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.CoreCompileInputs.cache
+D:\Codes\C#\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.CopyComplete
+D:\Codes\C#\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.exe
+D:\Codes\C#\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.pdb
